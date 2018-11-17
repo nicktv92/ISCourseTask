@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">CourseTask5</string>
+    <string name="text_info">Получить информацию</string>
+    <string name="battery">Батарея</string>
+    <string name="location">Геопозиция</string>
+    <string name="text_battery_info">Уровень заряда батареи равен:</string>
+    <string name="text_battery_charge">заряд(%)</string>
+    <string name="text_location_title">Используемые источники для получения данных</string>
+    <string name="gps_title">GPS</string>
+    <string name="network_title">Мобильная сеть</string>
+    <string name="batteryactivity_launch">Запуск BatteryActivity</string>
+    <string name="locationactivity_launch">Запуск LocationActivity</string>
+    <string name="imgbattery">imgBattery</string>
+    <string name="api_button">api</string>
+    <string name="search_button_api">Search</string>
+    <string name="edit_api">Enter city name</string>
+    <string name="login_button">Login</string>
+    <string name="app_redirect_scheme">nicktv.android.coursetask5</string>
+    <string name="github_user_info">GitHub user info</string>
+    <string name="user_id">user id:</string>
+    <string name="login_name">Login name:</string>
+    <string name="dc_git_image">git image</string>
+</resources>
